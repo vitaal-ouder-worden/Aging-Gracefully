@@ -20,7 +20,7 @@ A list of software, apps, and platforms that can assist in tracking, maintaining
 
 Curated articles offering insights, tips, and research on healthy aging. 
 
-1. **[Gezond ouder worden](https://gezondouderworden.net)** - An in-depth look into the physiological changes as we age and how to adapt for a healthier lifestyle.
+1. **[https://gezondouderworden.net](https://gezondouderworden.net)** - An in-depth look into the physiological changes as we age and how to adapt for a healthier lifestyle.
 
 ## Interactive Scripts
 
